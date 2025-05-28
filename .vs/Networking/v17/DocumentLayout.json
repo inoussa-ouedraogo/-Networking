@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\myproject-master\\Networking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}|Assembly-CSharp.csproj|D:\\myproject-master\\Networking\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}|Assembly-CSharp.csproj|d:\\myproject-master\\networking\\assets\\cameramouve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}|Assembly-CSharp.csproj|solutionrelative:assets\\cameramouve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraMouve.cs",
+              "DocumentMoniker": "D:\\myproject-master\\Networking\\Assets\\CameraMouve.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraMouve.cs",
+              "ToolTip": "D:\\myproject-master\\Networking\\Assets\\CameraMouve.cs",
+              "RelativeToolTip": "Assets\\CameraMouve.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwBQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:45:05.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\myproject-master\\Networking\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "D:\\myproject-master\\Networking\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:05:55.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
