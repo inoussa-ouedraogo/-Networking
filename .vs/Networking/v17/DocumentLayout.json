@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "D:\\myproject-master\\Networking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}|Assembly-CSharp.csproj|D:\\myproject-master\\Networking\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}|Assembly-CSharp.csproj|D:\\myproject-master\\Networking\\assets\\script\\signature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\signature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7285BF02-B2F2-7411-4890-633FB02FE517}|Mirror.Components.csproj|d:\\myproject-master\\networking\\assets\\mirror\\components\\discovery\\networkdiscoveryhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7285BF02-B2F2-7411-4890-633FB02FE517}|Mirror.Components.csproj|solutionrelative:assets\\mirror\\components\\discovery\\networkdiscoveryhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}|Assembly-CSharp.csproj|d:\\myproject-master\\networking\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}|Assembly-CSharp.csproj|d:\\myproject-master\\networking\\assets\\cameramouve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D938766-6050-4D2D-7A03-65FC9DDB62EF}|Mirror.csproj|d:\\myproject-master\\networking\\assets\\mirror\\core\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D938766-6050-4D2D-7A03-65FC9DDB62EF}|Mirror.csproj|solutionrelative:assets\\mirror\\core\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D938766-6050-4D2D-7A03-65FC9DDB62EF}|Mirror.csproj|D:\\myproject-master\\Networking\\assets\\mirror\\core\\networkbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D938766-6050-4D2D-7A03-65FC9DDB62EF}|Mirror.csproj|solutionrelative:assets\\mirror\\core\\networkbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}|Assembly-CSharp.csproj|D:\\myproject-master\\Networking\\assets\\cameramouve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}|Assembly-CSharp.csproj|solutionrelative:assets\\cameramouve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,11 +34,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "NetworkDiscoveryHUD.cs",
+              "DocumentMoniker": "D:\\myproject-master\\Networking\\Assets\\Mirror\\Components\\Discovery\\NetworkDiscoveryHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Mirror\\Components\\Discovery\\NetworkDiscoveryHUD.cs",
+              "ToolTip": "D:\\myproject-master\\Networking\\Assets\\Mirror\\Components\\Discovery\\NetworkDiscoveryHUD.cs",
+              "RelativeToolTip": "Assets\\Mirror\\Components\\Discovery\\NetworkDiscoveryHUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T23:32:51.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkManager.cs",
+              "DocumentMoniker": "D:\\myproject-master\\Networking\\Assets\\Mirror\\Core\\NetworkManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Mirror\\Core\\NetworkManager.cs",
+              "ToolTip": "D:\\myproject-master\\Networking\\Assets\\Mirror\\Core\\NetworkManager.cs",
+              "RelativeToolTip": "Assets\\Mirror\\Core\\NetworkManager.cs",
+              "ViewState": "AQIAAFsBAAAAAAAAAAAYwGgBAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T21:49:47.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetworkBehaviour.cs",
+              "DocumentMoniker": "D:\\myproject-master\\Networking\\Assets\\Mirror\\Core\\NetworkBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Mirror\\Core\\NetworkBehaviour.cs",
+              "ToolTip": "D:\\myproject-master\\Networking\\Assets\\Mirror\\Core\\NetworkBehaviour.cs",
+              "RelativeToolTip": "Assets\\Mirror\\Core\\NetworkBehaviour.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAgwKgAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:58:27.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signature.cs",
+              "DocumentMoniker": "D:\\myproject-master\\Networking\\Assets\\Script\\Signature.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Signature.cs",
+              "ToolTip": "D:\\myproject-master\\Networking\\Assets\\Script\\Signature.cs",
+              "RelativeToolTip": "Assets\\Script\\Signature.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAswCsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:25:07.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CameraMouve.cs",
               "DocumentMoniker": "D:\\myproject-master\\Networking\\Assets\\CameraMouve.cs",
               "RelativeDocumentMoniker": "Assets\\CameraMouve.cs",
@@ -30,18 +97,17 @@
               "RelativeToolTip": "Assets\\CameraMouve.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAcwBQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T16:45:05.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T16:45:05.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\myproject-master\\Networking\\Assets\\Script\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
               "ToolTip": "D:\\myproject-master\\Networking\\Assets\\Script\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAiwA0AAAA/AAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T16:05:55.524Z",
               "EditorCaption": ""
